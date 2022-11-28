@@ -1,0 +1,7 @@
+.PieteCraciun {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    padding: 10px;
+    width: 90vw;
+}

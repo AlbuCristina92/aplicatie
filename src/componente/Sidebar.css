@@ -1,0 +1,26 @@
+.Sidenav {
+  background-color: darkred;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  text-align: center;
+}
+
+.SidebarA {
+  padding: 5px;
+  font-size: 24px;
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+
+.SidebarHover {
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+.body-text {
+  margin-left: 150px;
+  font-size: 18px;
+}

@@ -1,0 +1,23 @@
+.Main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://wallpaperaccess.com/full/1207076.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+}
+
+.Layout {
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+}
+.MainApp {
+  display: flex;
+  height: 100%;
+  flex: 1;
+  width: 100%;
+}
+
